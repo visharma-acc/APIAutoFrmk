@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T14:53:22 IST" name="Default suite" finished-at="2024-01-09T14:53:35 IST" duration-ms="12288">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T14:53:22 IST" name="Default test" finished-at="2024-01-09T14:53:35 IST" duration-ms="12288">
+      <class name="com.api.tests.bookertest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.api.tests.bookertest@6ebc9573]" started-at="2024-01-09T14:53:22 IST" name="init" finished-at="2024-01-09T14:53:24 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="createbookingtest()[pri:1, instance:com.api.tests.bookertest@6ebc9573]" started-at="2024-01-09T14:53:24 IST" name="createbookingtest" description="create booking test scenario" finished-at="2024-01-09T14:53:28 IST" duration-ms="4188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbookingtest -->
+        <test-method signature="updatebookingtest()[pri:2, instance:com.api.tests.bookertest@6ebc9573]" started-at="2024-01-09T14:53:28 IST" name="updatebookingtest" description="update booking test scenario" finished-at="2024-01-09T14:53:31 IST" duration-ms="2551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatebookingtest -->
+        <test-method signature="getbookertest()[pri:3, instance:com.api.tests.bookertest@6ebc9573]" started-at="2024-01-09T14:53:31 IST" name="getbookertest" description="get booking test scenario" finished-at="2024-01-09T14:53:32 IST" duration-ms="1255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbookertest -->
+        <test-method signature="deletebookingtest()[pri:4, instance:com.api.tests.bookertest@6ebc9573]" started-at="2024-01-09T14:53:32 IST" name="deletebookingtest" description="delete booking test scenario" finished-at="2024-01-09T14:53:35 IST" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebookingtest -->
+      </class> <!-- com.api.tests.bookertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

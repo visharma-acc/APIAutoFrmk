@@ -1,0 +1,7 @@
+com\api\pojos\AuthTokenPojo.class
+com\api\pojos\Bookingdates.class
+com\api\utilities\SerializationDeserialization.class
+com\api\pojos\BookingPojo.class
+com\api\wrapper\SpecFactory.class
+com\api\tests\bookertest.class
+com\api\wrapper\RestWrapper.class
